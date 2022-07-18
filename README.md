@@ -24,7 +24,7 @@ WHEN I view the heading attributes THEN they fall in sequential order WHEN I vie
 THEN I find a concise, descriptive title
 
 ## Image
-https://github.com/Baldemyr/1-Refactor-Code/blob/193132185a6ff3211fd413191ab281610ba0793e/assets/images/1-CODE-CLEAN.png
+
 ![1-CODE-CLEAN](https://user-images.githubusercontent.com/46965040/179630137-ed3d7107-342b-4511-b867-7a61980ef84e.png)
 
 ## Link To Deployed Application
