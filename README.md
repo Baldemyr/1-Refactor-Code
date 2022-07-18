@@ -23,6 +23,8 @@ WHEN I view the heading attributes THEN they fall in sequential order WHEN I vie
 
 THEN I find a concise, descriptive title
 
+## Image
+https://github.com/Baldemyr/1-Refactor-Code/blob/193132185a6ff3211fd413191ab281610ba0793e/assets/images/1-CODE-CLEAN.png
 
 ## Link To Deployed Application
 https://baldemyr.github.io/1-Refactor-Code/
