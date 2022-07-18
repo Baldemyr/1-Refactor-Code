@@ -1,10 +1,10 @@
-Module-1-Refactor-Challenge
+# Module-1-Refactor-Challenge
 The assignment is to refactor existing code to meet specific requirements given in acceptance criteria
 
-User Story
+## User Story
 AS A marketing agency I WANT a codebase that follows accessibility standards SO THAT our own site is optimized for search engines
 
-Acceptance Criteria
+## Acceptance Criteria
 The Acceptance Criteria is as follows:
 
 GIVEN a webpage meets accessibility standards 
@@ -17,5 +17,5 @@ WHEN I view the heading attributes THEN they fall in sequential order WHEN I vie
 THEN I find a concise, descriptive title
 
 
-Link To Deployed Application
+## Link To Deployed Application
 https://baldemyr.github.io/1-Refactor-Code/
